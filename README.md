@@ -1,2 +1,2 @@
 # odin-recipes
-Project: Recipes
+The Odin Project's Recipe Project, from the HTML Foundation section of the Foundations course.
